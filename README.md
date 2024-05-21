@@ -7,8 +7,8 @@ Il est actuellement en stand-bye mais sera réutilisé à l'avenir pour un proje
 
 Outils :
 
--Unity
+- Unity
 
--Aseprite(Pixel Art)
+- Aseprite(Pixel Art)
 
--Visual Studio(C#)
+- Visual Studio(C#)
