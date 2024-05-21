@@ -9,6 +9,6 @@ Outils :
 
 -Unity
 
--Blender
+-Aseprite(Pixel Art)
 
 -Visual Studio(C#)
